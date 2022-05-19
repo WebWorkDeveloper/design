@@ -38,3 +38,12 @@ https://github.com/devhubapp/devhub/tree/master
 * InfinitiScroll
 * ProductCard
 * Order
+
+## Cross Platform
+
+Для реализации кроссплатформенности компонентов нужно использовать react-native-web
+
+Это позволит создать компоненты, которые будут иметь одну кодовую базу в 
+* Browser (React),
+* IOS и Android (ReactNative),
+* MacOS, Windows и Linux (Electron)
